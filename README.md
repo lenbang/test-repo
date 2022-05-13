@@ -2,8 +2,8 @@
 
 # H1
 
--bullet
--points
+- bullet
+- points
 
 ## H2
 
